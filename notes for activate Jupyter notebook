@@ -1,0 +1,5 @@
+ls
+cd desktop
+cd graspy
+cd maggot_models
+jupyter notebook
