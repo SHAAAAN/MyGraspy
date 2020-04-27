@@ -1,6 +1,6 @@
 # MyGraspy
 
-This is my version of GrasPy.
+This records the codes that I wrote for GrasPy.
 
 There are some codes for graph matching things.
 
